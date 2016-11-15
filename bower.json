@@ -11,5 +11,8 @@
     "express",
     "node"
   ],
-  "homepage": "https://github.com/abnerfcastro/fcastro-hello-heroku"
+  "homepage": "https://github.com/abnerfcastro/fcastro-hello-heroku",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
