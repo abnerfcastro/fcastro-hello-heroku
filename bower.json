@@ -1,0 +1,15 @@
+{
+  "name": "fcastro-hello-heroku",
+  "description": "Getting Started on Heroku with Node.js",
+  "main": "index.js",
+  "authors": [
+    "Abner Castro"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "heroku",
+    "express",
+    "node"
+  ],
+  "homepage": "https://github.com/abnerfcastro/fcastro-hello-heroku"
+}
