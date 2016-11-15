@@ -6,7 +6,7 @@
   "scripts": {
     "prestart": "npm install",
     "postinstall": "bower install",
-    "start": "node index.js"
+    "start": "node ./bin/www"
   },
   "keywords": [
     "heroku",
